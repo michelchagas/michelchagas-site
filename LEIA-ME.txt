@@ -1,0 +1,13 @@
+PÁGINA INICIAL — MICHEL CHAGAS
+
+Publicação no projeto michelchagas existente:
+1. No GitHub, abra o repositório conectado ao projeto michelchagas do Netlify.
+2. Confira a pasta de publicação em Deploy settings.
+3. Coloque index.html nessa pasta (substituindo a página inicial existente).
+4. Confirme a alteração no GitHub. O Netlify fará a publicação.
+
+Não envie este pacote ao projeto diversidadefomento: ele contém o painel e deve permanecer separado.
+
+Alternativa: extraia este ZIP e envie a pasta a um novo projeto manual no Netlify. Isso permite visualizar a página antes de substituir o site michelchagas.
+
+Edição: textos e estilos estão em index.html. Os três projetos novos usam links para seções da própria página. Diversidade e Fomento abre https://diversidadefomento.netlify.app/.
